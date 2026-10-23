@@ -104,6 +104,33 @@ commerce-skills/
 └── tests/run_all_tests.py
 ```
 
+## Pro version
+
+The free bundle above is complete and MIT-licensed. **Pro** adds the data
+and scale pieces you need in production:
+
+- **Full OFAC SDN dataset** (19,445 entries, generated from the official
+  U.S. Treasury list) as the default screening data, instead of the
+  34-entry sample
+- **Batch CE3.0 compiler** — many dispute cases in, one evidence packet
+  per case plus a summary index, and CSV export for acquirer spreadsheets
+- **Processor decline maps** for Adyen, PayPal and Checkout.com, plus
+  **recovery analytics** (recovery rate, recovered revenue, per-code
+  breakdown) from your dunning attempt log
+
+**Price: $29 per skill, or $59 for the full bundle** (launch; regular $89).
+One-time payment, no subscription.
+
+**How to buy:** email **whaifeng581@gmail.com** with which skill(s) you
+want, and pay in USDT (TRON / TRC20 network) to:
+
+```
+TY1mFwQmEovq3wQaXxw7STPDjGzntq7Tnq
+```
+
+Include your transaction hash in the email. The Pro zip is delivered to
+your email after the deposit confirms. Card payment is coming soon.
+
 ## Disclaimer
 
 These tools provide **decision support, not legal, financial, or compliance
